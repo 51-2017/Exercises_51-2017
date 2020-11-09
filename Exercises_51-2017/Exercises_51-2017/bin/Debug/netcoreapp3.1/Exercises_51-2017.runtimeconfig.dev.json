@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hp EliteBook 8460p\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hp EliteBook 8460p\\.nuget\\packages"
+    ]
+  }
+}
